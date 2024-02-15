@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2F4k-wallpaper-with-a-stunning-green-aesthetic-11698275190awbixdljvo.webp&tbnid=q-uR5Is_MlSCZM&vet=12ahUKEwjzqIWvv6yEAxXjTKQEHbaEBxAQMyhNegUIARCcAg..i&imgrefurl=https%3A%2F%2Ftoppng.com%2Ffree-image%2F4k-wallpaper-with-a-stunning-green-aesthetic-PNG-free-PNG-Images_491768&docid=UdYnbkJBTO55FM&w=850&h=479&q=green%20and%20white%20background%20aesthetic&ved=2ahUKEwjzqIWvv6yEAxXjTKQEHbaEBxAQMyhNegUIARCcAg);
+    background-size: cover;
+    background-position:center ;
+}
